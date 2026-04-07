@@ -4,6 +4,7 @@ Bienvenido a mi portafolio. Aquí presento proyectos desarrollados durante mi fo
 como análisis de Python y proyectos de ramos universitarios
 
 Proyectos
+
 🔹 Sistema de Gestión para una tienda musical.
 
 Aplicación desarrollada en Python utilizando listas, diccionarios, tuplas.
