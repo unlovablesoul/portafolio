@@ -38,9 +38,7 @@ aplicación bancaria, así como la sintaxis adecuada para las transacciones.
 
 ### 🔧 Herramientas utilizadas
 
-HTML5 /CSS
-Bootstrap / JavaScript
-jQuery
+HTML5 / CSS / Bootstrap / JavaScript / jQuery
 
 ---
 
