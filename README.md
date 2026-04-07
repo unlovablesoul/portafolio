@@ -38,11 +38,9 @@ aplicación bancaria, así como la sintaxis adecuada para las transacciones.
 
 ### 🔧 Herramientas utilizadas
 
-*HTML5
-*CSS
-*Bootstrap
-*JavaScript
-*jQuery
+HTML5 /CSS
+Bootstrap / JavaScript
+jQuery
 
 ---
 
@@ -78,6 +76,7 @@ utilicé herramientas que se me hacían complicadas de entender.
 
 
  Ver proyecto: (https://github.com/unlovablesoul/alke-wallet)
+---
 
  🔹 Sistema de Gestión para una tienda musical.
 
