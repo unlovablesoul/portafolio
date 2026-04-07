@@ -101,6 +101,6 @@ Soy desarrollador web junior enfocado en backend con Python, con interés en cre
 con enfoque en las ciencias físicas.
 
 ## 📫 Contacto
-LinkedIn: (fff)
+LinkedIn: (https://www.linkedin.com/in/unlovablesoul/)
 ---
 GitHub: (https://github.com/unlovablesoul)
